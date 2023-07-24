@@ -45,6 +45,32 @@
         </div>
     </li>
 
+    <hr class="sidebar-divider d-none d-md-block">
+    <!-- Heading -->
+    <div class="sidebar-heading">
+        Rooms
+    </div>
+
+    <!-- Nav Item - Pages Collapse Menu -->
+
+    <!-- Nav Item - Utilities Collapse Menu -->
+    <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseRoom"
+            aria-expanded="true" aria-controls="collapseRoom">
+            <i class="fas fa-fw fa-key"></i>
+            <span>List Rooms</span>
+        </a>
+        <div id="collapseRoom" class="collapse" aria-labelledby="headingRoom"
+            data-parent="#accordionSidebar">
+            <div class="bg-white py-2 collapse-inner rounded">
+                <h6 class="collapse-header">List Room:</h6>
+                <a class="collapse-item" href="utilities-color.html">All Room</a>
+                <a class="collapse-item" href="utilities-border.html">Room Category</a>
+            </div>
+        </div>
+    </li>
+
+
 
     <hr class="sidebar-divider d-none d-md-block">
     <!-- Heading -->
@@ -107,11 +133,22 @@
             <span>Financial Date</span></a>
     </li>
 
-    <!-- Nav Item - Tables -->
     <li class="nav-item">
-        <a class="nav-link" href="tables.html">
-            <i class="fas fa-fw fa-table"></i>
-            <span>Tables</span></a>
+        <a class="nav-link" href="charts.html">
+            <i class="fas fa-fw fa-film"></i>
+            <span>Financial Reports</span></a>
+    </li>
+
+    <hr class="sidebar-divider d-none d-md-block">
+
+    <div class="sidebar-heading">
+        Testimonials
+    </div>
+
+    <li class="nav-item">
+        <a class="nav-link" href="charts.html">
+            <i class="fas fa-fw fa-comments"></i>
+            <span>Testimoni</span></a>
     </li>
 
     <hr class="sidebar-divider d-none d-md-block">
