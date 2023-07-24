@@ -111,7 +111,7 @@
     <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages"
             aria-expanded="true" aria-controls="collapsePages">
-            <i class="fas fa-fw fa-book"></i>
+            <i class="fas fa-fw fa-dollar-sign"></i>
             <span>Cost</span>
         </a>
         <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
@@ -135,7 +135,7 @@
 
     <li class="nav-item">
         <a class="nav-link" href="charts.html">
-            <i class="fas fa-fw fa-film"></i>
+            <i class="fas fa-fw fa-book"></i>
             <span>Financial Reports</span></a>
     </li>
 
